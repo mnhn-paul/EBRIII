@@ -4,14 +4,22 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - description: >
-      EBR III is organised by:
+      EBR III is organised by Belgian, the Dutch and the Luxembourg  GBIF nodes, together with experts from various biodiversity informatics and bio informatics projects, initiatives and organisations in Belgium, The Netherlands and Luxembourg
     links:
-      - text: Belgian Science Policy Office (BELSPO)
+      - text: Belgian Biodiversity Platform (BBPF)
         href: https://www.belspo.be/
-      - text: Global Biodiversity Information Facility (GBIF)
-        href: https://www.gbif.org/
       - text: Netherlands Biodiversity Information Facility (NLBIF)
         href: https://www.nlbif.nl/
+      - text: GBIF Luxembourg (Musée national d'histoire national Luxembourg)
+        href: https://www.mnhn.lu/
+
+    - description: >
+      EBR III is supported by
+      links:
+      - text: Naturalis Biodiversiy Center
+        href: https://www.naturalis.nl
+      - text: Global Biodiversity Information Facility (GBIF)
+        href: https://www.gbif.org/
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml

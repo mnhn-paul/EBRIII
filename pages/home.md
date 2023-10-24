@@ -21,17 +21,17 @@ The reception is foreseen on March 25th. It will give you the perfect opportunit
 For more information, please contact Dimitri Brosens, GBIF node Manager at the Belgian Biodiversity Platform. 
 For the latest updates about the conference, please follow @EmpBioResearch on Twitter #EBR2024
 
-## PROGRAMME
+## Programme
 Find the EBR II programme here
 
-## REGISTRATION
+## Registration
 Register here
 
 The registration fee is set to ** €, this includes all the coffee, drinks, entrance to the reception and biodiversity market, cookies, talks, posters....
 You can register for 10 persons simultaneously, extra information on dietary preference, affiliation ect is asked during the registration process.
 
-## CALL FOR POSTERS
+## Call for posters
 You can find the EBR III call for posters here
 
-## ORGANISERS
+## Organisers
 This conference will be organized by the Belgian, the Dutch and the Luxembourg  GBIF nodes, together with experts from various biodiversity informatics  and bio informatics projects, initiatives and organisations in Belgium, The Netherlands and Luxembourg with support from the Belgian Science Policy Office Belspo.

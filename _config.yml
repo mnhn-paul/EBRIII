@@ -12,6 +12,7 @@ social:
 # THEME SETTINGS (ALL OPTIONAL)
 theme: minima
 remote_theme: peterdesmet/petridish@3.0
+repository: DimEvil/EBRIII
 posts_on_home: 3
 tweets_on_home: true
 archive_permalink: /blog/

@@ -3,7 +3,7 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - description: EBR III is organised by Belgian, the Dutch and the Luxembourg  GBIF nodes, together with experts from various biodiversity informatics and bio informatics projects, initiatives and organisations in Belgium, The Netherlands and Luxembourg
+  - description: EBR III is organised by 
     links:
       - text: Belgian Biodiversity Platform (BBPF)
         href: https://www.belspo.be/

@@ -1,0 +1,10 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Home
+  href: /
+- text: Keynote speakers
+  href: /keynotes/
+- text: Programme
+  href: /programme/
+- text: Registration
+  href: /registration/

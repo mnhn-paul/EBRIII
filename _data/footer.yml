@@ -12,7 +12,7 @@ columns:
       - text: GBIF Luxembourg (Musée national d'histoire national Luxembourg)
         href: https://www.mnhn.lu/
 
-   - description: EBR III is supported by
+   - description: > EBR III is supported by
       links:
       - text: Naturalis Biodiversiy Center
         href: https://www.naturalis.nl/

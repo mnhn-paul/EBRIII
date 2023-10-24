@@ -1,2 +1,41 @@
-# theme settings
+# SITE SETTINGS
+title: EBR III conference
+author: Belgian GBIF node
+baseurl: "/EBRIII" # Otherwise GitHub Pages will set this to "/EBRIII"
+
+# SOCIAL PROFILES
+social:
+  email: d.brosens@biodiversity.be
+  twitter: EmpBioResearch
+  github: DimEvil/EBRIII
+
+# THEME SETTINGS (ALL OPTIONAL)
+theme: minima
 remote_theme: peterdesmet/petridish@3.0
+posts_on_home: 3
+tweets_on_home: true
+archive_permalink: /blog/
+github_edit: true
+colors:
+  links: "#c04384"  # INBO fuchsia
+  banner: "#356196" # INBO blue
+  footer: "#3c3c3c" # INBO gray
+rounded_corners: true
+
+# BUILD SETTINGS
+markdown: kramdown
+plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
+  - jekyll-feed                         # Create RSS feed for posts
+  - jekyll-sitemap                      # Create sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+
+# FRONTMATTER DEFAULTS
+defaults:
+  - scope:
+      type: posts
+    values:
+      permalink: "/blog/:slug/"

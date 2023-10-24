@@ -3,7 +3,7 @@ layout: home
 title: Empowering Biodiversity Research III
 description: March 25-25, 2024 - NATURALIS, Leiden, Netherlands
 background: /assets/backgrounds/banner.jpg
-permalink: /
+permalink: /venue/
 ---
 
 Naturalis Biodiversity Center (Dutch: Nederlands Centrum voor Biodiversiteit Naturalis) is a national museum of natural history and a research center on biodiversity in Leiden, Netherlands.

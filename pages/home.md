@@ -35,3 +35,5 @@ You can find the EBR III call for posters here
 
 ## Organisers
 This conference will be organized by the Belgian, the Dutch and the Luxembourg  GBIF nodes, together with experts from various biodiversity informatics  and bio informatics projects, initiatives and organisations in Belgium, The Netherlands and Luxembourg with support from the Belgian Science Policy Office Belspo.
+
+

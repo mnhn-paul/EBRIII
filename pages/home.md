@@ -1,17 +1,12 @@
 ---
 layout: home
-title: EBR III
+title: Empowering Biodiversity Research III
+description: March 25-25, 2024 - NATURALIS, Leiden, Netherlands
 background: /assets/backgrounds/banner.jpg
 permalink: /
 ---
 
 ## Connecting Research to Policy
-
-### 25 & 26th of March 2024
-
-# NATURALIS
-
-# LEIDEN, The Netherlands
 
 The Benelux Biodiversity Informatics community and partners are pleased to invite you to the Empowering Biodiversity Research conference, EBR III, taking place on **March 25-26th 2024 in Naturalis, Leiden, the Netherlands.** We will take you on a journey into the world of biodiversity data standards and tools and will inform you on the latest developments in the world of Biodiversity Informatics, both internationally and locally.
 

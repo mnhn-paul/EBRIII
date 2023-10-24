@@ -1,6 +1,7 @@
 ---
 layout: home
 title: EBR III
+background: /assets/backgrounds/banner.jpg
 permalink: /
 ---
 #Empowering Biodiversity Research III 

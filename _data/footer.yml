@@ -12,15 +12,6 @@ columns:
       - text: GBIF Luxembourg (Musée national d'histoire national Luxembourg)
         href: https://www.mnhn.lu/
 
-   - description: > EBR III is supported by
-      links:
-      - text: Naturalis Biodiversiy Center
-        href: https://www.naturalis.nl/
-      - text: Global Biodiversity Information Facility (GBIF)
-        href: https://www.gbif.org/
-      - text: Flanders Marine Institute
-        href: https://www.vliz.be/
-
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 license: >

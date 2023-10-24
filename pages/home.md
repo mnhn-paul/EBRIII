@@ -13,3 +13,25 @@ The Benelux Biodiversity Informatics community and partners are pleased to invit
 In 2024, we are taking a significant leap forward. Our primary focus will be on effectively utilizing biodiversity data to bridge the gap with Policy. We're determined to harness the potential of both local and international initiatives to drive progress. While you may already be acquainted with well-known entities such as GBIF, ELIXIR, Lifewatch, and DiSSCo, allow us to introduce you to MAMBO, ARISE, and Biodiversity Genomics Europe. Our comprehensive offering includes a carefully curated selection of key nodes, enlightening information sessions, impactful poster presentations, and, of course, a state-of-the-art Biodiversity Informatics market and reception.
 
 Rest assured, your experience will surpass all expectations. 
+
+For more info about the poster session, click here.
+
+The reception is foreseen on March 25th. It will give you the perfect opportunity to talk with your colleagues, friends on Biodiversity Informatics and what it could do for our research community.
+
+For more information, please contact Dimitri Brosens, GBIF node Manager at the Belgian Biodiversity Platform. 
+For the latest updates about the conference, please follow @EmpBioResearch on Twitter #EBR2024
+
+## PROGRAMME
+Find the EBR II programme here
+
+## REGISTRATION
+Register here
+
+The registration fee is set to ** €, this includes all the coffee, drinks, entrance to the reception and biodiversity market, cookies, talks, posters....
+You can register for 10 persons simultaneously, extra information on dietary preference, affiliation ect is asked during the registration process.
+
+## CALL FOR POSTERS
+You can find the EBR III call for posters here
+
+## ORGANISERS
+This conference will be organized by the Belgian, the Dutch and the Luxembourg  GBIF nodes, together with experts from various biodiversity informatics  and bio informatics projects, initiatives and organisations in Belgium, The Netherlands and Luxembourg with support from the Belgian Science Policy Office Belspo.

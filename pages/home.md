@@ -18,7 +18,7 @@ For more info about the poster session, click [here.](https://dimevil.github.io/
 
 The reception is foreseen on March 25th. It will give you the perfect opportunity to talk with your colleagues, friends on Biodiversity Informatics and what it could do for our research community.
 
-For more information, please contact Dimitri Brosens, GBIF node Manager at the Belgian Biodiversity Platform. 
+For more information, please contact [Dimitri Brosens](dimitri.brosens@inbo.be), GBIF node Manager at the Belgian Biodiversity Platform. 
 For the latest updates about the conference, please follow @EmpBioResearch on Twitter #EBR2024
 
 ## Programme

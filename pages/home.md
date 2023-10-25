@@ -63,10 +63,10 @@ This conference will be organized by the Belgian, the Dutch and the Luxembourg  
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">
-<a href="https://www.mnhn.fr/en">
+  <a href="https://www.mnhn.fr/en">
     <img src="assets/logos/mnhn.jpg" alt="Muséum national d'Histoire naturelle (MNHN)" width="180">
   </a>
-<a href="https://www.lifewatch.eu/">
+  <a href="https://www.lifewatch.eu/">
     <img src="assets/logos/lifewatch.jpg" alt="LifeWatch" width="180">
   </a>
 </p>

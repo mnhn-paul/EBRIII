@@ -2,17 +2,23 @@
 
 - text: Home
   href: /
-- text: Keynote speakers
-  href: /keynotes/
 - text: Programme
-  href: /programme/
-- text: Biodiversity Market
-  href: /market/
-- text: Venue
-  href: /venue/
-- text: Registration
-  href: /registration/
-- text: Workshops
-  href: /workshops/
-- text: Poster submission
-  href: /posters/
+  menu:
+  - text: Programme
+    href: /programme/
+  - text: "---"
+  - text: Keynote speakers
+    href: /keynotes/
+  - text: Biodiversity market
+    href: /market/
+  - text: Workshops
+    href: /workshops/
+- text: Practical
+  menu:
+  - text: Registration
+    href: /registration/
+  - text: "---"
+  - text: Poster submission
+    href: /posters/
+  - text: Venue
+    href: /venue/

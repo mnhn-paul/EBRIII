@@ -71,7 +71,9 @@ This conference will be organized by the Belgian, the Dutch and the Luxembourg  
   </a>
 </p>
 
-## With support of
+## Supporters & sponsors
+
+Empowering Biodiversity Research III could never be organised without the support of the following organisations:
 
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://www.gbif.org">

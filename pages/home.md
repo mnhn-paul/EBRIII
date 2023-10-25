@@ -44,14 +44,11 @@ This conference will be organized by the Belgian, the Dutch and the Luxembourg  
   <a href="http://nlbif.nl/">
     <img src="assets/logos/nlbif.png" alt="Dutch GBIF node" width="180">
   </a>
-  <a href="http://arise-project.eu/">
-    <img src="assets/logos/arise.jpeg" alt="Atmospheric dynamics Research InfraStructure in Europe (ARISE)" width="180">
+  <a href="https://www.mnhn.fr/en">
+    <img src="assets/logos/mnhn.jpg" alt="Muséum national d'Histoire naturelle (MNHN)" width="180">
   </a>
   <a href="https://www.biodiversity.be">
     <img src="assets/logos/bbpf.jpg" alt="Belgian Biodiversity Platform" width="180">
-  </a>
-  <a href="https://biodiversitygenomics.eu/">
-    <img src="assets/logos/biodiversity-genomics.png" alt="Biodiversity Genomics Europe" width="180">
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">
@@ -66,13 +63,16 @@ This conference will be organized by the Belgian, the Dutch and the Luxembourg  
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">
-  <a href="https://www.mnhn.fr/en">
-    <img src="assets/logos/mnhn.jpg" alt="Muséum national d'Histoire naturelle (MNHN)" width="180">
-  </a>
   <a href="https://www.lifewatch.eu/">
     <img src="assets/logos/lifewatch.jpg" alt="LifeWatch" width="180">
   </a>
-</p>
+  <a href="https://biodiversitygenomics.eu/">
+    <img src="assets/logos/biodiversity-genomics.png" alt="Biodiversity Genomics Europe" width="180">
+  </a>
+  <a href="http://arise-project.eu/">
+    <img src="assets/logos/arise.jpeg" alt="Atmospheric dynamics Research InfraStructure in Europe (ARISE)" width="180">
+  </a>
+ </p>
 
 ## Supporters & sponsors
 

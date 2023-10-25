@@ -41,6 +41,9 @@ You can find the EBR III call for posters [here](https://dimevil.github.io/EBRII
 This conference will be organized by the Belgian, the Dutch and the Luxembourg  GBIF nodes, together with experts from various biodiversity informatics  and bio informatics projects, initiatives and organisations in Belgium, The Netherlands and Luxembourg with support from the Belgian Science Policy Office Belspo.
 
 <p class="d-flex justify-content-around align-items-center">
+  <a href="http://nlbif.nl/">
+    <img src="assets/logos/nlbif.jpeg" alt="Dutch GBIF node" width="180">
+  </a>
   <a href="http://arise-project.eu/">
     <img src="assets/logos/arise.jpeg" alt="Atmospheric dynamics Research InfraStructure in Europe (ARISE)" width="180">
   </a>
@@ -83,9 +86,14 @@ Empowering Biodiversity Research III could never be organised without the suppor
     <img src="assets/logos/bhl.png" alt="Biodiversity Heritage Library (BHL)" width="180">
   </a>
   <a href="https://cetaf.org/">
-    <img src="assets/logos/cetaf.png" alt="Consortium of European Taxonomic Facilities (CETAF)" width="100">
+    <img src="assets/logos/cetaf.png" alt="Consortium of European Taxonomic Facilities (CETAF)" width="180">
   </a>
+  </p>
+<p class="d-flex justify-content-around align-items-center">  
   <a href="https://www.tdwg.org">
     <img src="assets/logos/tdwg.png" alt="Biodiversity Information Standards (TDWG)" width="180">
+  </a>
+  <a href="https://www.belspo.be">
+    <img src="assets/logos/belspo.png" alt="Belgian science policy office" width="180">
   </a>
 </p>

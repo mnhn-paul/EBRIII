@@ -88,7 +88,7 @@ Empowering Biodiversity Research III could never be organised without the suppor
   <a href="https://cetaf.org/">
     <img src="assets/logos/cetaf.png" alt="Consortium of European Taxonomic Facilities (CETAF)" width="180">
   </a>
-  </p>
+</p>
 <p class="d-flex justify-content-around align-items-center">  
   <a href="https://www.tdwg.org">
     <img src="assets/logos/tdwg.png" alt="Biodiversity Information Standards (TDWG)" width="180">

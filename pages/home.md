@@ -10,45 +10,49 @@ permalink: /
 
 The Benelux Biodiversity Informatics community and partners are pleased to invite you to the Empowering Biodiversity Research conference, EBR III, taking place on **March 25-26th 2024 in Naturalis, Leiden, the Netherlands.** We will take you on a journey into the world of biodiversity data standards and tools and will inform you on the latest developments in the world of Biodiversity Informatics, both internationally and locally.
 
-In 2024, we are taking a significant leap forward. Our primary focus will be on effectively utilizing biodiversity data to bridge the gap with Policy. We're determined to harness the potential of both local and international initiatives to drive progress. While you may already be acquainted with well-known entities such as GBIF, ELIXIR, Lifewatch, and DiSSCo, allow us to introduce you to MAMBO, ARISE, and Biodiversity Genomics Europe. Our comprehensive offering includes a carefully curated selection of key nodes, enlightening information sessions, impactful poster presentations, and, of course, a state-of-the-art Biodiversity Informatics market and reception.
+<p class="d-flex justify-content-around align-items-center">
+   <img src="assets/images/ebr1.png" width="180">
+</p>
+
+In 2024, we are taking a significant leap forward. Our primary focus will be on effectively **utilizing biodiversity data to bridge the gap with Policy**. We're determined to harness the potential of both local and international initiatives to drive progress. While you may already be acquainted with well-known entities such as GBIF, ELIXIR, Lifewatch, and DiSSCo, allow us to introduce you to MAMBO, ARISE, and Biodiversity Genomics Europe. Our comprehensive offering includes a carefully curated selection of keynotes, enlightening information sessions, impactful poster presentations, and, of course, a state-of-the-art Biodiversity Informatics market and reception.
 
 Rest assured, your experience will surpass all expectations. 
 
-For more info about the poster session, click here.
+For more info about the poster session, click [here.](https://dimevil.github.io/EBRIII/posters/)
 
 The reception is foreseen on March 25th. It will give you the perfect opportunity to talk with your colleagues, friends on Biodiversity Informatics and what it could do for our research community.
 
-For more information, please contact Dimitri Brosens, GBIF node Manager at the Belgian Biodiversity Platform. 
+For more information, please contact [Dimitri Brosens](dimitri.brosens@inbo.be), GBIF node Manager at the Belgian Biodiversity Platform. 
 For the latest updates about the conference, please follow @EmpBioResearch on Twitter #EBR2024
 
 ## Programme
 
-Find the EBR II programme here
+Find the EBR II programme [here](https://dimevil.github.io/EBRIII/programme/)
 
 ## Registration
 
-Register here
+Register [here](https://dimevil.github.io/EBRIII/registration/)
 
 The registration fee is set to ** €, this includes all the coffee, drinks, entrance to the reception and biodiversity market, cookies, talks, posters....
 You can register for 10 persons simultaneously, extra information on dietary preference, affiliation ect is asked during the registration process.
 
 ## Call for posters
 
-You can find the EBR III call for posters here
+You can find the EBR III call for posters [here](https://dimevil.github.io/EBRIII/posters/)
 
 ## Organisers
 
 This conference will be organized by the Belgian, the Dutch and the Luxembourg  GBIF nodes, together with experts from various biodiversity informatics  and bio informatics projects, initiatives and organisations in Belgium, The Netherlands and Luxembourg with support from the Belgian Science Policy Office Belspo.
 
 <p class="d-flex justify-content-around align-items-center">
-  <a href="http://arise-project.eu/">
-    <img src="assets/logos/arise.jpeg" alt="Atmospheric dynamics Research InfraStructure in Europe (ARISE)" width="180">
+  <a href="http://nlbif.nl/">
+    <img src="assets/logos/nlbif.png" alt="Dutch GBIF node" width="180">
+  </a>
+  <a href="https://www.mnhn.fr/en">
+    <img src="assets/logos/mnhn.jpg" alt="Muséum national d'Histoire naturelle (MNHN)" width="180">
   </a>
   <a href="https://www.biodiversity.be">
     <img src="assets/logos/bbpf.jpg" alt="Belgian Biodiversity Platform" width="180">
-  </a>
-  <a href="https://biodiversitygenomics.eu/">
-    <img src="assets/logos/biodiversity-genomics.png" alt="Biodiversity Genomics Europe" width="180">
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">
@@ -63,15 +67,20 @@ This conference will be organized by the Belgian, the Dutch and the Luxembourg  
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">
-  <a href="https://www.mnhn.fr/en">
-    <img src="assets/logos/mnhn.jpg" alt="Muséum national d'Histoire naturelle (MNHN)" width="180">
-  </a>
   <a href="https://www.lifewatch.eu/">
     <img src="assets/logos/lifewatch.jpg" alt="LifeWatch" width="180">
   </a>
-</p>
+  <a href="https://biodiversitygenomics.eu/">
+    <img src="assets/logos/biodiversity-genomics.png" alt="Biodiversity Genomics Europe" width="180">
+  </a>
+  <a href="http://arise-project.eu/">
+    <img src="assets/logos/arise.jpeg" alt="Atmospheric dynamics Research InfraStructure in Europe (ARISE)" width="180">
+  </a>
+ </p>
 
-## With support of
+## Supporters & sponsors
+
+Empowering Biodiversity Research III could never be organised without the support of the following organisations:
 
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://www.gbif.org">
@@ -81,9 +90,14 @@ This conference will be organized by the Belgian, the Dutch and the Luxembourg  
     <img src="assets/logos/bhl.png" alt="Biodiversity Heritage Library (BHL)" width="180">
   </a>
   <a href="https://cetaf.org/">
-    <img src="assets/logos/cetaf.png" alt="Consortium of European Taxonomic Facilities (CETAF)" width="100">
+    <img src="assets/logos/cetaf.png" alt="Consortium of European Taxonomic Facilities (CETAF)" width="180">
   </a>
+</p>
+<p class="d-flex justify-content-around align-items-center">  
   <a href="https://www.tdwg.org">
     <img src="assets/logos/tdwg.png" alt="Biodiversity Information Standards (TDWG)" width="180">
+  </a>
+  <a href="https://www.belspo.be">
+    <img src="assets/logos/belspo.png" alt="Belgian science policy office" width="180">
   </a>
 </p>

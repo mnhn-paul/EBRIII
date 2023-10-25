@@ -47,40 +47,43 @@ This conference will be organized by the Belgian, the Dutch and the Luxembourg  
   <a href="https://www.biodiversity.be">
     <img src="assets/logos/bbpf.jpg" alt="Belgian Biodiversity Platform" width="180">
   </a>
-  <a href="https://www.biodiversitylibrary.org/">
-    <img src="assets/logos/bhl.png" alt="Biodiversity Heritage Library (BHL)" width="180">
-  </a>
-</p>
-<p class="d-flex justify-content-around align-items-center">
   <a href="https://biodiversitygenomics.eu/">
     <img src="assets/logos/biodiversity-genomics.png" alt="Biodiversity Genomics Europe" width="180">
   </a>
-  <a href="https://cetaf.org/">
-    <img src="assets/logos/cetaf.png" alt="Consortium of European Taxonomic Facilities (CETAF)" width="100">
-  </a>
+</p>
+<p class="d-flex justify-content-around align-items-center">
   <a href="https://www.dissco.eu/">
     <img src="assets/logos/dissco.png" alt="Distributed System of Scientific Collections (DISSCO)" width="180">
   </a>
-</p>
-<p class="d-flex justify-content-around align-items-center">
   <a href="https://elixir-europe.org/">
     <img src="assets/logos/elixir.jpg" alt="ELIXIR" width="180">
   </a>
-  <a href="https://www.gbif.org">
-    <img src="assets/logos/gbif.png" alt="Global Biodiversity Information Facility (GBIF)" width="180">
-  </a>
-  <a href="https://www.lifewatch.eu/">
-    <img src="assets/logos/lifewatch.jpg" alt="LifeWatch" width="180">
-  </a>
-</p>
-<p class="d-flex justify-content-around align-items-center">
   <a href="https://www.mambo-project.eu/">
     <img src="assets/logos/mambo.png" alt="Modern Approaches to the Monitoring of Biodiversity (MAMBO)" width="180">
   </a>
-  <a href="https://www.mnhn.fr/en">
+</p>
+<p class="d-flex justify-content-around align-items-center">
+<a href="https://www.mnhn.fr/en">
     <img src="assets/logos/mnhn.jpg" alt="Muséum national d'Histoire naturelle (MNHN)" width="180">
   </a>
-  <a href="https://www.tdwg.org">
+<a href="https://www.lifewatch.eu/">
+    <img src="assets/logos/lifewatch.jpg" alt="LifeWatch" width="180">
+  </a>
+</p>
+
+# With special support of
+
+<p class="d-flex justify-content-around align-items-center">
+  <a href="https://www.gbif.org">
+    <img src="assets/logos/gbif.png" alt="Global Biodiversity Information Facility (GBIF)" width="180">
+  </a>
+<a href="https://www.biodiversitylibrary.org/">
+    <img src="assets/logos/bhl.png" alt="Biodiversity Heritage Library (BHL)" width="180">
+  </a>
+ <a href="https://cetaf.org/">
+    <img src="assets/logos/cetaf.png" alt="Consortium of European Taxonomic Facilities (CETAF)" width="100">
+  </a>
+ <a href="https://www.tdwg.org">
     <img src="assets/logos/tdwg.png" alt="Biodiversity Information Standards (TDWG)" width="180">
   </a>
 </p>

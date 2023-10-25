@@ -1,7 +1,7 @@
 # SITE SETTINGS
 title: EBR III conference
 author: Belgian GBIF node
-baseurl: "/EBRIII" # Otherwise GitHub Pages will set this to "/EBRIII"
+baseurl: "/EBRIII"
 
 # SOCIAL PROFILES
 social:

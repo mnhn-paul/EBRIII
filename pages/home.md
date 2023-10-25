@@ -23,18 +23,18 @@ For the latest updates about the conference, please follow @EmpBioResearch on Tw
 
 ## Programme
 
-Find the EBR II programme here
+Find the EBR II programme [here](https://dimevil.github.io/EBRIII/programme/)
 
 ## Registration
 
-Register here
+Register [here](https://dimevil.github.io/EBRIII/registration/)
 
 The registration fee is set to ** €, this includes all the coffee, drinks, entrance to the reception and biodiversity market, cookies, talks, posters....
 You can register for 10 persons simultaneously, extra information on dietary preference, affiliation ect is asked during the registration process.
 
 ## Call for posters
 
-You can find the EBR III call for posters here
+You can find the EBR III call for posters [here](https://dimevil.github.io/EBRIII/posters/)
 
 ## Organisers
 

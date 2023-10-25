@@ -70,3 +70,22 @@ This conference will be organized by the Belgian, the Dutch and the Luxembourg  
     <img src="assets/logos/lifewatch.jpg" alt="LifeWatch" width="180">
   </a>
 </p>
+
+## With special support of
+
+Many claps to our supporters
+
+<p class="d-flex justify-content-around align-items-center">
+  <a href="https://www.gbif.org">
+    <img src="assets/logos/gbif.png" alt="Global Biodiversity Information Facility (GBIF)" width="180">
+  </a>
+  <a href="https://www.biodiversitylibrary.org/">
+    <img src="assets/logos/bhl.png" alt="Biodiversity Heritage Library (BHL)" width="180">
+  </a>
+  <a href="https://cetaf.org/">
+    <img src="assets/logos/cetaf.png" alt="Consortium of European Taxonomic Facilities (CETAF)" width="100">
+  </a>
+  <a href="https://www.tdwg.org">
+    <img src="assets/logos/tdwg.png" alt="Biodiversity Information Standards (TDWG)" width="180">
+  </a>
+</p>

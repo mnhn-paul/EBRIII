@@ -70,6 +70,9 @@ This conference will be organized by the Belgian, the Dutch and the Luxembourg  
     <img src="assets/logos/lifewatch.jpg" alt="LifeWatch" width="180">
   </a>
 </p>
+
+## With support of
+
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://www.gbif.org">
     <img src="assets/logos/gbif.png" alt="Global Biodiversity Information Facility (GBIF)" width="180">

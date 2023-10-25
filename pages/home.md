@@ -42,7 +42,7 @@ This conference will be organized by the Belgian, the Dutch and the Luxembourg  
 
 <p class="d-flex justify-content-around align-items-center">
   <a href="http://nlbif.nl/">
-    <img src="assets/logos/nlbif.jpeg" alt="Dutch GBIF node" width="180">
+    <img src="assets/logos/nlbif.png" alt="Dutch GBIF node" width="180">
   </a>
   <a href="http://arise-project.eu/">
     <img src="assets/logos/arise.jpeg" alt="Atmospheric dynamics Research InfraStructure in Europe (ARISE)" width="180">

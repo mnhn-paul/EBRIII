@@ -16,7 +16,7 @@ In 2024, we are taking a significant leap forward. Our primary focus will be on 
 
 Rest assured, your experience will surpass all expectations. 
 
-For more info about the poster session, click [here]({{ '/posters/' | relative_url }}).
+For more info about the [poster session]({{ '/posters/' | relative_url }}).
 
 The reception is foreseen on March 25th. It will give you the perfect opportunity to talk with your colleagues, friends on Biodiversity Informatics and what it could do for our research community.
 
@@ -25,7 +25,7 @@ For the latest updates about the conference, please follow @EmpBioResearch on Tw
 
 ## Programme
 
-Find the EBR III programme [here]({{ '/programme/' | relative_url }})
+Find the EBR III [programme]({{ '/programme/' | relative_url }})
 
 ## Registration
 

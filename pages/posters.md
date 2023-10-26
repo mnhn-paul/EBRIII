@@ -24,4 +24,4 @@ Please complete the submission process for each poster you would like to present
 
 Submit your poster abstract [here](https://forms.gle/v4H9UHLpRMUAU4Y26)
 
-Abstracts will be published on our Zenodo community [page](https://zenodo.org/communities/empoweringbiodiversityresearch?q=&l=list&p=1&s=10&sort=newest)https://zenodo.org/communities/empoweringbiodiversityresearch?q=&l=list&p=1&s=10&sort=newest
+Abstracts will be published on our Zenodo community [page](https://zenodo.org/communities/empoweringbiodiversityresearch?q=&l=list&p=1&s=10&sort=newest)

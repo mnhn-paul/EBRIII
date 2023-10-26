@@ -18,9 +18,10 @@ tweets_on_home: true
 archive_permalink: /blog/
 github_edit: true
 colors:
-  links: "#c04384"  # INBO fuchsia
-  banner: "#356196" # INBO blue
-  footer: "#3c3c3c" # INBO gray
+  links: "#3D8AB9"  # EBRIII main blue
+  banner: "#4A96BC" # EBRIII mid blue
+  footer: "#357991" # EBRIII dark blue
+font_serif: true
 rounded_corners: true
 
 # BUILD SETTINGS

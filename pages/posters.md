@@ -12,6 +12,12 @@ There will be a poster session organised at the Empowering Biodiversity Research
    <img src="/assets/images/ebrposter1.png" width="300">
  </p>
 
+ <p class="d-flex justify-content-around align-items-center">
+   <img src="assets/images/ebr1.png" width="300">
+ </p>
+
+
+assets/images/ebr1.png
 It is not necessary to present a poster in order to participate in the conference. The poster session will be integrated in the Biodiversity Informatics Market. The scope of the Poster session is: biodiversity research, biodiversity informatics (IT tools used for biodiversity research), open data, open science. data management, collection management, data driven policy
 
  <p class="d-flex justify-content-around align-items-center">

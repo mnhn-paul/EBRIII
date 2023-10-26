@@ -1,7 +1,5 @@
 ---
-title: Empowering Biodiversity Research III
-description: Registration
-background: /assets/backgrounds/banner.jpg
+title: Registration
 permalink: /registration/
 ---
 

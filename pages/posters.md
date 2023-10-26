@@ -1,7 +1,6 @@
 ---
 title: Poster submission
 description: Present your work at EBRIII
-background: /assets/backgrounds/banner.jpg
 permalink: /posters/
 ---
 

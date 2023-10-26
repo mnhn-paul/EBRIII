@@ -1,7 +1,6 @@
 ---
-title: Empowering Biodiversity Research III
-description: Workshops and post conference programme
-background: /assets/backgrounds/banner.jpg
+title: Workshops
+description: Workshops and post-conference programme
 permalink: /workshops/
 ---
 

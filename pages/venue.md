@@ -1,7 +1,5 @@
 ---
-title: Empowering Biodiversity Research III
-description: Venue
-background: /assets/backgrounds/banner.jpg
+title: Venue
 permalink: /venue/
 ---
 

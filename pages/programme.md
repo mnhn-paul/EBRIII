@@ -1,8 +1,6 @@
 ---
-title: Empowering Biodiversity Research III
-description: Programme
-background: /assets/backgrounds/banner.jpg
+title: Programme
 permalink: /programme/
 ---
 
-Here we will publish the programme
+Here we will publish the programme.

@@ -1,7 +1,5 @@
 ---
-title: Empowering Biodiversity Research III
-description: Biodiversity Market
-background: /assets/backgrounds/banner.jpg
+title: Biodiversity market
 permalink: /market/
 ---
 

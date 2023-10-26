@@ -1,10 +1,9 @@
 ---
-title: Empowering Biodiversity Research III
-description: March 25-25, 2024 - NATURALIS, Leiden, Netherlands
+title: Poster submission
+description: Present your work at EBRIII
 background: /assets/backgrounds/banner.jpg
 permalink: /posters/
 ---
-## Poster submission
 
 There will be a poster session organised at the Empowering Biodiversity Research III 2024 conference. You are invited to submit an abstract for a poster presentation. 
 
@@ -22,6 +21,6 @@ If the submitting author is not able to participate in the conference please con
 Please complete the submission process for each poster you would like to present.
 
 {:.text-center}
-[Submit your poster abstract](https://forms.gle/v4H9UHLpRMUAU4Y26){:.btn .btn-success}
+[Submit your poster abstract](https://forms.gle/v4H9UHLpRMUAU4Y26){:.btn .btn-primary}
 
 Abstracts will be published on our [Zenodo community page](https://zenodo.org/communities/empoweringbiodiversityresearch).

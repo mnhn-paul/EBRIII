@@ -15,7 +15,6 @@ All poster abstracts submitted will be reviewed by the organising committee and 
 You do not need to be registered for the conference before submitting an abstract for a poster, but once your abstract has been accepted the presenting author or one of the co-authors should be at the conference.
 If the submitting author is not able to participate in the conference please contact the organisers to inform them of any changes. 
 
-
 Please complete the submission process for each poster you would like to present.
 
 {:.text-center}

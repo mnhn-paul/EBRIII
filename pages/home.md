@@ -11,7 +11,7 @@ permalink: /
 The Benelux Biodiversity Informatics community and partners are pleased to invite you to the Empowering Biodiversity Research conference, EBR III, taking place on **March 25-26th 2024 in Naturalis, Leiden, the Netherlands.** We will take you on a journey into the world of biodiversity data standards and tools and will inform you on the latest developments in the world of Biodiversity Informatics, both internationally and locally.
 
 <p class="d-flex justify-content-around align-items-center">
-  <img src="{{ 'assets/images/ebr1.png | absolute_url }}" width="300">
+  <img src="{{ '/assets/images/ebr1.png | absolute_url }}" width="300">
 </p>
 
 In 2024, we are taking a significant leap forward. Our primary focus will be on effectively **utilizing biodiversity data to bridge the gap with Policy**. We're determined to harness the potential of both local and international initiatives to drive progress. While you may already be acquainted with well-known entities such as GBIF, ELIXIR, Lifewatch, and DiSSCo, allow us to introduce you to MAMBO, ARISE, and Biodiversity Genomics Europe. Our comprehensive offering includes a carefully curated selection of keynotes, enlightening information sessions, impactful poster presentations, and, of course, a state-of-the-art Biodiversity Informatics market and reception.

@@ -11,7 +11,7 @@ permalink: /
 The Benelux Biodiversity Informatics community and partners are pleased to invite you to the Empowering Biodiversity Research conference, EBR III, taking place on **March 25-26th 2024 in Naturalis, Leiden, the Netherlands.** We will take you on a journey into the world of biodiversity data standards and tools and will inform you on the latest developments in the world of Biodiversity Informatics, both internationally and locally.
 
 <p class="d-flex justify-content-around align-items-center">
-   <img src="assets/images/ebr1.png" width="300">
+  <img src="{{ 'assets/images/ebr1.png | absolute_url }}" width="300">
 </p>
 
 In 2024, we are taking a significant leap forward. Our primary focus will be on effectively **utilizing biodiversity data to bridge the gap with Policy**. We're determined to harness the potential of both local and international initiatives to drive progress. While you may already be acquainted with well-known entities such as GBIF, ELIXIR, Lifewatch, and DiSSCo, allow us to introduce you to MAMBO, ARISE, and Biodiversity Genomics Europe. Our comprehensive offering includes a carefully curated selection of keynotes, enlightening information sessions, impactful poster presentations, and, of course, a state-of-the-art Biodiversity Informatics market and reception.
@@ -46,35 +46,35 @@ This conference will be organized by the Belgian, the Dutch and the Luxembourg  
 
 <p class="d-flex justify-content-around align-items-center">
   <a href="http://nlbif.nl/">
-    <img src="assets/logos/nlbif.png" alt="Dutch GBIF node" width="180">
+    <img src="{{ 'assets/logos/nlbif.png' | absolute_url }}" alt="Dutch GBIF node" width="180">
   </a>
   <a href="https://www.mnhn.fr/en">
-    <img src="assets/logos/mnhn.jpg" alt="Muséum national d'Histoire naturelle (MNHN)" width="180">
+    <img src="{{ 'assets/logos/mnhn.jpg' | absolute_url }}" alt="Muséum national d'Histoire naturelle (MNHN)" width="180">
   </a>
   <a href="https://www.biodiversity.be">
-    <img src="assets/logos/bbpf.jpg" alt="Belgian Biodiversity Platform" width="180">
+    <img src="{{ 'assets/logos/bbpf.jpg' | absolute_url }}" alt="Belgian Biodiversity Platform" width="180">
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://www.dissco.eu/">
-    <img src="assets/logos/dissco.png" alt="Distributed System of Scientific Collections (DISSCO)" width="180">
+    <img src="{{ 'assets/logos/dissco.png' | absolute_url }}" alt="Distributed System of Scientific Collections (DISSCO)" width="180">
   </a>
   <a href="https://elixir-europe.org/">
-    <img src="assets/logos/elixir.jpg" alt="ELIXIR" width="180">
+    <img src="{{ 'assets/logos/elixir.jpg' | absolute_url }}" alt="ELIXIR" width="180">
   </a>
   <a href="https://www.mambo-project.eu/">
-    <img src="assets/logos/mambo.png" alt="Modern Approaches to the Monitoring of Biodiversity (MAMBO)" width="180">
+    <img src="{{ 'assets/logos/mambo.png' | absolute_url }}" alt="Modern Approaches to the Monitoring of Biodiversity (MAMBO)" width="180">
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://www.lifewatch.eu/">
-    <img src="assets/logos/lifewatch.jpg" alt="LifeWatch" width="180">
+    <img src="{{ 'assets/logos/lifewatch.jpg' | absolute_url }}" alt="LifeWatch" width="180">
   </a>
   <a href="https://biodiversitygenomics.eu/">
-    <img src="assets/logos/biodiversity-genomics.png" alt="Biodiversity Genomics Europe" width="180">
+    <img src="{{ 'assets/logos/biodiversity-genomics.png' | absolute_url }}" alt="Biodiversity Genomics Europe" width="180">
   </a>
   <a href="http://arise-project.eu/">
-    <img src="assets/logos/arise.jpeg" alt="Atmospheric dynamics Research InfraStructure in Europe (ARISE)" width="180">
+    <img src="{{ 'assets/logos/arise.jpeg' | absolute_url }}" alt="Atmospheric dynamics Research InfraStructure in Europe (ARISE)" width="180">
   </a>
  </p>
 
@@ -84,20 +84,20 @@ Empowering Biodiversity Research III could never be organised without the suppor
 
 <p class="d-flex justify-content-around align-items-center">
   <a href="https://www.gbif.org">
-    <img src="assets/logos/gbif.png" alt="Global Biodiversity Information Facility (GBIF)" width="180">
+    <img src="{{ 'assets/logos/gbif.png' | absolute_url }}" alt="Global Biodiversity Information Facility (GBIF)" width="180">
   </a>
   <a href="https://www.biodiversitylibrary.org/">
-    <img src="assets/logos/bhl.png" alt="Biodiversity Heritage Library (BHL)" width="180">
+    <img src="{{ 'assets/logos/bhl.png' | absolute_url }}" alt="Biodiversity Heritage Library (BHL)" width="180">
   </a>
   <a href="https://cetaf.org/">
-    <img src="assets/logos/cetaf.png" alt="Consortium of European Taxonomic Facilities (CETAF)" width="180">
+    <img src="{{ 'assets/logos/cetaf.png' | absolute_url }}" alt="Consortium of European Taxonomic Facilities (CETAF)" width="180">
   </a>
 </p>
 <p class="d-flex justify-content-around align-items-center">  
   <a href="https://www.tdwg.org">
-    <img src="assets/logos/tdwg.png" alt="Biodiversity Information Standards (TDWG)" width="180">
+    <img src="{{ 'assets/logos/tdwg.png' | absolute_url }}" alt="Biodiversity Information Standards (TDWG)" width="180">
   </a>
   <a href="https://www.belspo.be">
-    <img src="assets/logos/belspo.png" alt="Belgian science policy office" width="180">
+    <img src="{{ 'assets/logos/belspo.png' | absolute_url }}" alt="Belgian science policy office" width="180">
   </a>
 </p>

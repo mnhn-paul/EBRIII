@@ -1,5 +1,7 @@
 ---
 title: Biodiversity market
+description: Welcome to the EBRIII Biodiversity Market
+background: /assets/images/ebrmarket1.png
 permalink: /market/
 ---
 

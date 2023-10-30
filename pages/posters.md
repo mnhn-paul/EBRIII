@@ -1,13 +1,11 @@
 ---
 title: Poster submission
 description: Present your work at EBRIII
-background: /assets/backgrounds/banner.jpg
+background: /assets/images/ebrposter1.png
 permalink: /posters/
 ---
 
-There will be a poster session organised at the Empowering Biodiversity Research III 2024 conference. You are invited to submit an abstract for a poster presentation. 
-
-![posters-1]({{ '/assets/images/ebrposter1.png' | relative_url }})
+There will be a poster session organised at the Empowering Biodiversity Research III 2024 conference. You are invited to submit an abstract for a poster presentation.
 
 It is not necessary to present a poster in order to participate in the conference. The poster session will be integrated in the Biodiversity Informatics Market. The scope of the Poster session is: biodiversity research, biodiversity informatics (IT tools used for biodiversity research), open data, open science. data management, collection management, data driven policy.
 

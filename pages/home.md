@@ -2,7 +2,7 @@
 layout: home
 title: Empowering Biodiversity Research III
 description: March 25-26, 2024 - NATURALIS, Leiden, Netherlands
-background: /assets/backgrounds/2.jpg
+background: /assets/backgrounds/banner2.jpg
 permalink: /
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Programme
+description: preliminary programme EBR
 permalink: /programme/
+background: /assets/backgrounds/banner2.png
 ---
 
 Here we will publish the programme.

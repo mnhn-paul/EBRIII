@@ -49,9 +49,9 @@ Chair: TBC
 
 ### Day 1: Tuesday, March 26
 
-#### Session 2 Day One Afternoon
+#### Session 2 Day One Morning
 
-**Project sessions Science**
+**Project sessions 1**
 
 Chair: TBD
 
@@ -65,4 +65,13 @@ Chair: TBD
 
 12:45-14:00 | **Lunch Break**
 
+#### Session 2 Day One Afternoon
 
+**Project sessions 2**
+
+Chair: TBD
+
+14:00-14:45 | **DiSSCo session** - TBC -
+14:45-15:30 | **BGE session** - TBC -
+15:30-16:15 | **ELIXIR session**
+16:15-16:30 | **Closing of the meeting** - TBC -

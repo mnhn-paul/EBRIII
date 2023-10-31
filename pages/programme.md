@@ -33,7 +33,9 @@ Chair: Niels Raes
 
 12:40-14:00 | **Lunch Break**
 
-#### Session 2 Day One Afternoon
+#### Session 2 Day One Afternoon 
+
+**Empowering Biodiversity Research presentations**
 
 Chair: TBC
 
@@ -49,8 +51,18 @@ Chair: TBC
 
 #### Session 2 Day One Afternoon
 
+**Project sessions Science**
+
 Chair: TBD
 
 9:00-9:30  | Registration
+
+9:30-10:15 | **GBIF session** - TBC -
+10:15-11:15 | **Lifewatch session** - TBC -
+11:15-11:45 | **Coffee Break**
+11:45-12:30 | **MAMBO session** - TBC -
+12:30-12:44 | **ARISE session** - TBC -
+
+12:45-14:00 | **Lunch Break**
 
 

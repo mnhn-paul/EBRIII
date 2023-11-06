@@ -29,7 +29,7 @@ Chair: Niels Raes
 
 10:10-10:40 | **Policy & Biodiversity** - TBC **keynote**{:.badge .bg-danger}
 10:40-11:10 | **Policy & Biodiversity** - TBC **keynote**{:.badge .bg-danger}
-11:10-11:40 | **Coffee Break/ Poster setup**
+11:10-11:40 | **Coffee Break/ Poster setup**  <i class="fas fa-coffee"></i>
 11:40-12:10 | **eDNA** - TBC **keynote**{:.badge .bg-danger}
 12:10-12:40 | **ELIXIR** - TBC **keynote**{:.badge .bg-danger}
 
@@ -41,8 +41,8 @@ Chair: Niels Raes
 
 Chair: TBC
 
-14:00-14:20 | **Information Session on Workshops** - TBC **workshops**{:.badge .bg-danger}
-14:20-14:40 | **EBR 1:  Building Blocks Biodiversity** - Quentin Groom - 
+14:00-14:20 | **Information Session on Workshops** - TBC **workshops**{:.badge .bg-info text-dark}
+14:20-14:40 | **EBR 1:  Building Blocks Biodiversity** - Quentin Groom - | Botanic Garden Meise
 14:40-15:00 | **EBR 2:  Decolonisation** - TBC -
 15:00-15:20 | **EBR 3:  New GBIF Data model** - TBC -
 15:20-15:40 | **EBR 4:  Mapping RI landscape** - TBC -
@@ -51,7 +51,7 @@ Chair: TBC
 
 ### Day 1: Tuesday, March 26
 
-#### Session 2 Day One Morning
+#### Session 2 Day Two Morning
 
 **Project sessions 1**
 
@@ -59,21 +59,43 @@ Chair: TBD
 
 9:00-9:30  | Registration
 
-9:30-10:15 | **GBIF session** - TBC -
-10:15-11:15 | **Lifewatch session** - TBC -
-11:15-11:45 | **Coffee Break**
-11:45-12:30 | **MAMBO session** - TBC -
-12:30-12:44 | **ARISE session** - TBC -
+9:30-10:15 | **GBIF session** 
+| 9:30 - 9:45  | **Data4Nature/ private sector** | tbd | tbd
+| 9:45 - 10:00 | **The GBIF ECA network** | tbd | tbd
+| 10:00 - 10:15 | **extended COL as GBIF backbone taxonomy** | Olaf Banki | Naturalis
+10:15-11:15 | **Lifewatch session** 
+| 10:15 - 10:30 | **Species Information backbone** | tbd | VLIZ
+| 10:30 - 10:45 | **How changes in human-induced pressures affect ecosystems** | tbd | Lifewatch-Nl
+| 10:45 - 11:00 | **DTO Bioflow - optimize data flows to the EU Digital Twin of the Ocean** | tbd |INBO
+| 11:00 - 11:15 | **Terrestrial ecosystem accounting with ecopatches** | tbd |UCL
+ 11:15-11:45 | **Coffee Break**  <i class="fas fa-coffee"></i>
+11:45-12:30 | **MAMBO session**
+| 11:45 - 12:00 | **AI Image & Sound recognition** | tbd | 
+| 10:30 - 10:45 | **Insect camera's** | tbd | tbd
+| 10:45 - 11:00 | **Satellite/drone/LiDAR** | tbd |tbd
+12:30-12:44 | **ARISE session**
+| 11:45 - 12:00 | **ARISE** | tbd | 
 
 12:45-14:00 | **Lunch Break**
 
-#### Session 2 Day One Afternoon
+#### Session 2 Day Two Afternoon
 
 **Project sessions 2**
 
 Chair: TBD
 
 14:00-14:45 | **DiSSCo session** - TBC -
+| 14:00 - 14:15 | **DiSSCo CSO** | tbd | tbd
+| 14:15 - 14:30 | **DiSSCo Nl** | tbd | tbd
+| 14:30 - 14:45 | **DiSSCo BE** | tbd |tbd
 14:45-15:30 | **BGE session** - TBC -
+| 14:45 - 15:00 | **BOLD** | tbd | tbd
+| 15:00 - 15:15 | **ERGA** | tbd | tbd
+| 15:15 - 15:30 | **BGE** | tbd |tbd
 15:30-16:15 | **ELIXIR session**
-16:15-16:30 | **Closing of the meeting** - TBC -
+| 15:30 - 15:45 | **ELIXIR** | tbd | tbd
+| 15:45 - 16:00 | **ELIXIR** | tbd | tbd
+| 16:00 - 16:15 | **ELIXIR** | tbd |tbd
+16:15-16:30 | **Closing of the meeting** 
+
+

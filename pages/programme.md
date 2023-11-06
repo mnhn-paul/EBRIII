@@ -33,7 +33,7 @@ Chair: Niels Raes
 11:40-12:10 | **eDNA** - TBC **keynote**{:.badge .bg-danger}
 12:10-12:40 | **ELIXIR** - TBC **keynote**{:.badge .bg-danger}
 
-12:40-14:00 | **Lunch Break**
+12:40-14:00 | **Lunch Break** 
 
 #### Session 2 Day One Afternoon 
 
@@ -47,7 +47,7 @@ Chair: TBC
 15:00-15:20 | **EBR 3:  New GBIF Data model** - TBC -
 15:20-15:40 | **EBR 4:  Mapping RI landscape** - TBC -
 
-15:40-19:00 | **Biodiversity Market/ Reception** 
+15:40-19:00 | **Biodiversity Market/ Reception**  <i class="fad fa-glass-cheers"></i>
 
 ### Day 1: Tuesday, March 26
 

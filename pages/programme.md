@@ -62,7 +62,7 @@ Chair: TBD
 9:30-10:15 | **GBIF session** 
 | 9:30 - 9:45  | **Data4Nature/ private sector** | tbd | tbd
 | 9:45 - 10:00 | **The GBIF ECA network** | tbd | tbd
-| 10:00 - 10:15 | **extended COL as GBIF backbone taxonomy** | Olaf Banki | Naturalis
+| 10:00 - 10:15 | **extended COL as GBIF backbone taxonomy** | Olaf Banki | Species2000
 10:15-11:15 | **Lifewatch session** 
 | 10:15 - 10:30 | **Species Information backbone** | tbd | VLIZ
 | 10:30 - 10:45 | **How changes in human-induced pressures affect ecosystems** | tbd | Lifewatch-Nl

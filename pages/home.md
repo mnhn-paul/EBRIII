@@ -47,7 +47,7 @@ This conference will be organized by the Belgian, the Dutch and the Luxembourg  
     <img src="{{ '/assets/logos/nlbif.png' | relative_url }}" alt="Dutch GBIF node" width="180">
   </a>
   <a href="https://www.mnhn.lu">
-    <img src="{{ '/assets/logos/mnhn.jpg' | relative_url }}" alt="Muséum national d'Histoire naturelle (MNHN)" width="180">
+    <img src="{{ '/assets/logos/mnhn.jpg' | relative_url }}" alt="Muséum national d'Histoire naturelle Luxembourg (MNHNL)" width="180">
   </a>
   <a href="https://www.biodiversity.be">
     <img src="{{ '/assets/logos/bbpf.jpg' | relative_url }}" alt="Belgian Biodiversity Platform" width="180">

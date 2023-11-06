@@ -89,9 +89,9 @@ Chair: TBD
 | 14:15 - 14:30 | **DiSSCo NL** | tbd | tbd
 | 14:30 - 14:45 | **DiSSCo BE** | tbd |tbd
 14:45-15:30 | **BGE session** - TBC -
-| 14:45 - 15:00 | **BOLD** | tbd | tbd
-| 15:00 - 15:15 | **ERGA** | tbd | tbd
-| 15:15 - 15:30 | **BGE** | tbd |tbd
+| 14:45 - 15:00 | **BGE** | tbd | tbd
+| 15:00 - 15:15 | **BOLD** | tbd | tbd
+| 15:15 - 15:30 | **ERGA** | tbd |tbd
 15:30-16:15 | **ELIXIR session**
 | 15:30 - 15:45 | **ELIXIR** | tbd | tbd
 | 15:45 - 16:00 | **ELIXIR** | tbd | tbd

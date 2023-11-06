@@ -43,9 +43,9 @@ Chair: TBC
 
 14:00-14:20 | **Information Session on Workshops** - TBC **workshops**{:.badge .bg-info text-dark}
 14:20-14:40 | **EBR 1:  Building Blocks Biodiversity** - Quentin Groom - | Botanic Garden Meise
-14:40-15:00 | **EBR 2:  Decolonisation** - TBC -
-15:00-15:20 | **EBR 3:  New GBIF Data model** - TBC -
-15:20-15:40 | **EBR 4:  Mapping RI landscape** - TBC -
+14:40-15:00 | **EBR 2:  Decolonisation** - Patrick Semal and Didier Van den Spiegel | Royal Belgian Institute for Natural Sciences - Royal Museum for Central Africa
+15:00-15:20 | **EBR 3:  New GBIF Data model** - tbd -
+15:20-15:40 | **EBR 4:  Mapping RI landscape** - Rob Hendriks -  Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
 15:40-19:00 | **Biodiversity Market/ Reception**  <i class="fad fa-glass-cheers"></i>
 
@@ -86,7 +86,7 @@ Chair: TBD
 
 14:00-14:45 | **DiSSCo session** - TBC -
 | 14:00 - 14:15 | **DiSSCo CSO** | tbd | tbd
-| 14:15 - 14:30 | **DiSSCo Nl** | tbd | tbd
+| 14:15 - 14:30 | **DiSSCo NL** | tbd | tbd
 | 14:30 - 14:45 | **DiSSCo BE** | tbd |tbd
 14:45-15:30 | **BGE session** - TBC -
 | 14:45 - 15:00 | **BOLD** | tbd | tbd

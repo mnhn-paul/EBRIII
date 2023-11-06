@@ -16,7 +16,7 @@ Here we will publish the programme.
  }
 </style>
 
-### Day 1: Monday, March 25
+### Day One: Monday, March 25
 
  9:00-10:00  | Registration
  10:00- 10:10  | Welcome
@@ -49,15 +49,15 @@ Chair: TBC
 
 15:40-19:00 | **Biodiversity Market/ Reception**  <i class="fad fa-glass-cheers"></i>
 
-### Day 1: Tuesday, March 26
+### Day Two: Tuesday, March 26
 
-#### Session 2 Day Two Morning
+#### Session 3 Day Two Morning
 
 **Project sessions 1**
 
 Chair: TBD
 
-9:00-9:30  | Registration
+9:00-9:30  | Registration 
 
 9:30-10:15 | **GBIF session** 
 | 9:30 - 9:45  | **Data4Nature/ private sector** | tbd | tbd
@@ -68,7 +68,7 @@ Chair: TBD
 | 10:30 - 10:45 | **How changes in human-induced pressures affect ecosystems** | tbd | Lifewatch-Nl
 | 10:45 - 11:00 | **DTO Bioflow - optimize data flows to the EU Digital Twin of the Ocean** | tbd |INBO
 | 11:00 - 11:15 | **Terrestrial ecosystem accounting with ecopatches** | tbd |UCL
- 11:15-11:45 | **Coffee Break**  <i class="fas fa-coffee"></i>
+ 11:15-11:45 | **Coffee Break**  <i class="fas fa-coffee"></i> 
 11:45-12:30 | **MAMBO session**
 | 11:45 - 12:00 | **AI Image & Sound recognition** | tbd | 
 | 10:30 - 10:45 | **Insect camera's** | tbd | tbd
@@ -76,26 +76,26 @@ Chair: TBD
 12:30-12:44 | **ARISE session**
 | 11:45 - 12:00 | **ARISE** | tbd | 
 
-12:45-14:00 | **Lunch Break**
+12:45-14:00 | **Lunch Break** 
 
-#### Session 2 Day Two Afternoon
+#### Session 4 Day Two Afternoon
 
 **Project sessions 2**
 
 Chair: TBD
 
-14:00-14:45 | **DiSSCo session** - TBC -
+14:00-14:45 | **DiSSCo session** - TBC - 
 | 14:00 - 14:15 | **DiSSCo CSO** | tbd | tbd
 | 14:15 - 14:30 | **DiSSCo NL** | tbd | tbd
 | 14:30 - 14:45 | **DiSSCo BE** | tbd |tbd
-14:45-15:30 | **BGE session** - TBC -
+14:45-15:30 | **BGE session** - TBC - 
 | 14:45 - 15:00 | **BGE** | tbd | tbd
 | 15:00 - 15:15 | **BOLD** | tbd | tbd
 | 15:15 - 15:30 | **ERGA** | tbd |tbd
-15:30-16:15 | **ELIXIR session**
+15:30-16:15 | **ELIXIR session**  
 | 15:30 - 15:45 | **ELIXIR** | tbd | tbd
 | 15:45 - 16:00 | **ELIXIR** | tbd | tbd
 | 16:00 - 16:15 | **ELIXIR** | tbd |tbd
-16:15-16:30 | **Closing of the meeting** 
+16:15-16:30 | **Closing of the meeting**  
 
 

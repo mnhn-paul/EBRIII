@@ -46,7 +46,7 @@ This conference will be organized by the Belgian, the Dutch and the Luxembourg  
   <a href="http://nlbif.nl/">
     <img src="{{ '/assets/logos/nlbif.png' | relative_url }}" alt="Dutch GBIF node" width="180">
   </a>
-  <a href="https://www.mnhn.fr/en">
+  <a href="https://www.mnhn.lu">
     <img src="{{ '/assets/logos/mnhn.jpg' | relative_url }}" alt="Muséum national d'Histoire naturelle (MNHN)" width="180">
   </a>
   <a href="https://www.biodiversity.be">
@@ -76,7 +76,7 @@ This conference will be organized by the Belgian, the Dutch and the Luxembourg  
   </a>
  </p>
 
-## Supporters & sponsors
+## Supporters & Sponsors
 
 Empowering Biodiversity Research III could never be organised without the support of the following organisations:
 
@@ -97,5 +97,8 @@ Empowering Biodiversity Research III could never be organised without the suppor
   </a>
   <a href="https://www.belspo.be">
     <img src="{{ '/assets/logos/belspo.png' | relative_url }}" alt="Belgian science policy office" width="180">
+  </a>
+  <a href="https://www.naturalis.nl">
+    <img src="{{ '/assets/logos/naturalis.png' | relative_url }}" alt="Naturalis Biodiversity Center" width="180">
   </a>
 </p>

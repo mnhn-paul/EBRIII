@@ -20,7 +20,7 @@ For more info about the [poster session]({{ '/posters/' | relative_url }}).
 
 The reception is foreseen on March 25th. It will give you the perfect opportunity to talk with your colleagues, friends on Biodiversity Informatics and what it could do for our research community.
 
-For more information, please contact [Dimitri Brosens](dimitri.brosens@inbo.be), GBIF node Manager at the Belgian Biodiversity Platform. 
+For more information, please contact [Dimitri Brosens](dimitri.brosens@inbo.be), GBIF node Manager at the Belgian Biodiversity Platform, [Niels Raes](niels.raes@naturalis.nl) GBIF node Manager at NLBIF/ Naturalis or [Paul Braun](paul.braun@mnhn.lu ) GBIF node manager at the Musée national d'histoire naturelle in Luxembourg.
 For the latest updates about the conference, please follow @EmpBioResearch on Twitter `#EBR2024`.
 
 ## Programme
@@ -76,7 +76,7 @@ This conference will be organized by the Belgian, the Dutch and the Luxembourg  
   </a>
  </p>
 
-## Supporters & sponsors
+## Supporters & Sponsors
 
 Empowering Biodiversity Research III could never be organised without the support of the following organisations:
 
@@ -97,5 +97,8 @@ Empowering Biodiversity Research III could never be organised without the suppor
   </a>
   <a href="https://www.belspo.be">
     <img src="{{ '/assets/logos/belspo.png' | relative_url }}" alt="Belgian science policy office" width="180">
+  </a>
+  <a href="https://www.naturalis.nl">
+    <img src="{{ '/assets/logos/naturalis.png' | relative_url }}" alt="Naturalis Biodiversity Center" width="180">
   </a>
 </p>

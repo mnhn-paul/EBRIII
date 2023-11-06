@@ -20,8 +20,8 @@ For more info about the [poster session]({{ '/posters/' | relative_url }}).
 
 The reception is foreseen on March 25th. It will give you the perfect opportunity to talk with your colleagues, friends on Biodiversity Informatics and what it could do for our research community.
 
-For more information, please contact [Dimitri Brosens](dimitri.brosens@inbo.be), GBIF node Manager at the Belgian Biodiversity Platform, [Niels Raes](niels.raes@naturalis.nl) GBIF node Manager at NLBIF/ Naturalis or [Paul Braun](paul.braun@mnhn.lu ) GBIF node manager at the Musée national d'histoire naturelle in Luxembourg.
-For the latest updates about the conference, please follow @EmpBioResearch on Twitter `#EBR2024`.
+For more information, please contact [Dimitri Brosens](mailto:dimitri.brosens@inbo.be), GBIF node manager at the Belgian Biodiversity Platform, [Paul Braun](mailto:paul.braun@mnhn.lu), GBIF node manager at the  Luxembourg National Museum of Natural History  or [Niels Raes](mailto:niels.raes@naturalis.nl), GBIF node manager at the Naturalis Biodiversity Center.
+For the latest updates about the conference, please follow [@EmpBioResearch](https://twitter.com/EmpBioResearch) on Twitter [_#EBR2024_](https://twitter.com/hashtag/EBR2024?src=hashtag_click).
 
 ## Programme
 

@@ -45,7 +45,7 @@ Chair: TBC
 14:20-14:40 | **EBR 1:  Building Blocks Biodiversity** - Quentin Groom - | Botanic Garden Meise
 14:40-15:00 | **EBR 2:  Decolonisation** - Patrick Semal and Didier Van den Spiegel | Royal Belgian Institute for Natural Sciences - Royal Museum for Central Africa
 15:00-15:20 | **EBR 3:  New GBIF Data model** - tbd -
-15:20-15:40 | **EBR 4:  Mapping RI landscape** - Rob Hendriks -  Ministerie van Landbouw, Natuur en Voedselkwaliteit
+15:20-15:40 | **EBR 4:  Mapping RI landscape** - Rob Hendriks -  Wageningen Environmental Research
 
 15:40-19:00 | **Biodiversity Market/ Reception**  <i class="fad fa-glass-cheers"></i>
 
